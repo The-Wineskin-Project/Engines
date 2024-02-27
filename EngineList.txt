@@ -6,3 +6,5 @@ WS11Wine64Bit9.1
 WS11WineStaging64Bit9.1
 WS11Wine64Bit9.2
 WS11WineStaging64Bit9.2
+WS11Wine64Bit9.3
+WS11WineStaging64Bit9.3
